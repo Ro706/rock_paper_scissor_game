@@ -1,0 +1,12 @@
+body{
+    background-image: url(/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.table2{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-shadow: 2px 2px 2px solid black;
+    font-size: large;
+}
