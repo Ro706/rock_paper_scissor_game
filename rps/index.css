@@ -1,0 +1,41 @@
+body{
+    background-color:blue;
+    background-image: url(/bg.jpg);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mid,.left,.right{
+    background-color: greenyellow;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    bottom: 80%;
+    width: 100%;
+    text-align: center;
+}
+.mid{
+    font-size: 50px;
+}
+.left{
+     font-size: 30px;
+}
+.right{
+    font-size: 30px;
+}
+header{
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-shadow: 4px 4px 4px black;
+    top:100%;
+}
+footer{
+    bottom: 80%;
+}
+img{
+    box-shadow: 8px 8px 8px black;
+    padding: 0px;
+}
